@@ -1,5 +1,9 @@
 # -aiml-Heart-Disease-Prediction-Using-Logistic-Regression
 The purpose of this project is to predict the risk of developing cardiovascular disease (CVD) within the next ten years for patients using logistic regression.
+
+google collab link--> https://colab.research.google.com/drive/1LYhlxG6pPUCMZpLtW94Bj3JIi5BACD-9
+dataset link--> https://media.geeksforgeeks.org/wp-content/uploads/20240307152534/framingham.csv
+
 **1) Purpose of the project:**
 The purpose of this project is to predict the risk of developing cardiovascular disease (CVD) within the next ten years for patients using logistic regression. By analyzing various demographic and health-related factors from the Framingham Heart Study dataset, the project aims to identify individuals who may be at higher risk of CVD, enabling early intervention and preventive measures.
 
